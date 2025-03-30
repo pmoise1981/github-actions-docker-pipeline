@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - develop
+      - feature/add-docker  # This will include the feature/add-docker branch as well
   pull_request:
     branches:
       - main
