@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: pmoise/devops_demo:latest  # Ensure you use your correct Docker Hub username and repository name
+          tags: pmoise021/devops_demo:latest  # Ensure you use your correct Docker Hub username and repository name
